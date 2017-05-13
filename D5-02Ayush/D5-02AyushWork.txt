@@ -1,0 +1,5 @@
+1. Using gendb python code, we first extracted emotion indicating images from CK+ database.
+2. Using gendbfaces python code, we generated only face showing files for our dataset.
+3. Using train python code, we trained 10 different fisherfaceclassifier object by randomly splitting the data into training and testing and saved the xml file.
+4. The mean accuracy obtained was 87% .
+5. We further need to test the model on real case test images. 

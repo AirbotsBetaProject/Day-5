@@ -1,0 +1,3 @@
+Selected motion detection and 
+
+worked on it by writing a code on detecting the object motion
